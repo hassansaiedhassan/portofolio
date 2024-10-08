@@ -1,0 +1,26 @@
+.bg-white{
+    background-color: #FFFFFF;
+}
+i{
+    transition: color 0.5s;
+}
+i:hover{
+    color:beige !important;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  p{
+    color: #586165;
+  }
+  .footer-icon{
+    margin: 0 20px;
+    font-size:25px!important;
+    color: #586165;
+  }
+  #about  img{
+    width: 100%;
+    height: 100%;
+    image-rendering;
+   
+}
